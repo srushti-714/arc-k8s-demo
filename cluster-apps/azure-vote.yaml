@@ -59,7 +59,7 @@ spec:
         - containerPort: 80
         resources:
           requests:
-            cpu: 300m
+            cpu: 350m
           limits:
             cpu: 500m
         env:
